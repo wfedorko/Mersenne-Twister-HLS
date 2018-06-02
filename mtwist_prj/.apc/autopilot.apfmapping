@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="rand.dat" path="/mnt/xrootdd/wfedorko/hls_mtwist/mtwist/rand.dat"/>
+    <originFiles name="mtwist.cpp" path="/mnt/xrootdd/wfedorko/hls_mtwist/mtwist/sources/mtwist.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="mtwist_tb.cpp" path="/mnt/xrootdd/wfedorko/hls_mtwist/mtwist/sources/mtwist_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
